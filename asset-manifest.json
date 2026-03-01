@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/marcheight/static/css/main.8e29776b.css",
-    "main.js": "/marcheight/static/js/main.e60c4bba.js",
+    "main.js": "/marcheight/static/js/main.41c5a732.js",
     "static/js/885.489c8f9a.chunk.js": "/marcheight/static/js/885.489c8f9a.chunk.js",
-    "static/media/Persone.png": "/marcheight/static/media/Persone.3d2ac1f5573785765d75.png",
-    "static/media/boss2.png": "/marcheight/static/media/boss2.d6b9d701bad80ee64e75.png",
-    "static/media/Boss.png": "/marcheight/static/media/Boss.2429d8636a9ab397ba8b.png",
-    "static/media/Persone2.png": "/marcheight/static/media/Persone2.41b03e9c1a94fe12f2f7.png",
     "static/media/winboss.mp3": "/marcheight/static/media/winboss.d24ff652825c14587016.mp3",
+    "static/media/Persone.png": "/marcheight/static/media/Persone.b51bfec28e6fbdda84a8.png",
+    "static/media/Persone2.png": "/marcheight/static/media/Persone2.dcb55be2b2bf46cde9b5.png",
     "static/media/boss.mp3": "/marcheight/static/media/boss.f1fcb21034a5d539ceec.mp3",
+    "static/media/boss2.png": "/marcheight/static/media/boss2.f57e42e5fe94a1af758d.png",
+    "static/media/Boss.png": "/marcheight/static/media/Boss.b316ec1cfe52e130f6da.png",
     "static/media/orhidea.png": "/marcheight/static/media/orhidea.17d5de17b8af90739cd2.png",
     "static/media/petunia.png": "/marcheight/static/media/petunia.11d7ad287b34adf0b3e4.png",
     "static/media/vasilok.png": "/marcheight/static/media/vasilok.eb1d89ae1d44b63541a0.png",
@@ -22,6 +22,7 @@
     "static/media/romashka.png": "/marcheight/static/media/romashka.96a19b2776db99ea096b.png",
     "static/media/gerbera.png": "/marcheight/static/media/gerbera.8972e9243ed920a4a702.png",
     "static/media/winLvl.mp3": "/marcheight/static/media/winLvl.dd39383751eb536c9eb2.mp3",
+    "static/media/kabluk.png": "/marcheight/static/media/kabluk.ef8c8f80e0b5c184a753.png",
     "static/media/podsnegnik.png": "/marcheight/static/media/podsnegnik.4fe6634c80b2410050f5.png",
     "static/media/podsolnuh.png": "/marcheight/static/media/podsolnuh.9cbf28cd8e3a7f07a91b.png",
     "static/media/gameOverLvl.mp3": "/marcheight/static/media/gameOverLvl.126dabcdd408e0adf647.mp3",
@@ -36,11 +37,11 @@
     "static/media/kick.mp3": "/marcheight/static/media/kick.70d7a9f894a2c413fb03.mp3",
     "index.html": "/marcheight/index.html",
     "main.8e29776b.css.map": "/marcheight/static/css/main.8e29776b.css.map",
-    "main.e60c4bba.js.map": "/marcheight/static/js/main.e60c4bba.js.map",
+    "main.41c5a732.js.map": "/marcheight/static/js/main.41c5a732.js.map",
     "885.489c8f9a.chunk.js.map": "/marcheight/static/js/885.489c8f9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e29776b.css",
-    "static/js/main.e60c4bba.js"
+    "static/js/main.41c5a732.js"
   ]
 }
