@@ -38,6 +38,9 @@ if(key === Number(lastPath)){
   if(localStorage.getItem('check')!== null){
     navigate('/0')
   }
+  if(localStorage.getItem('checkBoss')!== null){
+   navigate('/ErrorBoss')
+}
 
 
 const [play] = useSound(Winound);

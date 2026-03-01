@@ -54,6 +54,9 @@ const [play] = useSound(win);
 if(localStorage.getItem('check')!== null){
     navigate('/0')
   }
+if(localStorage.getItem('checkBoss')!== null){
+   navigate('/ErrorBoss')
+}
 
 function toBoss(){
     let emptyArray = new Array()

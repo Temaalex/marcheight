@@ -7,7 +7,9 @@ import { useState, useEffect  } from 'react';
 
 
 const ErrorBoss = () => {
- 
+  const location = useLocation()  
+  localStorage.setItem('checkBoss', location.pathname.slice(1))
+
   let text = "Попробуем еще раз через несколько секунд?"
   const [count, setCount] = useState(30);
   const [play] = useSound(ErrorSound);
@@ -18,10 +20,11 @@ const ErrorBoss = () => {
   let navigate = useNavigate();
   const next = () => {
 	if(count===0){
+      localStorage.removeItem('checkBoss')
       navigate('/aL43Ah0l0z/32')
 	}
   }
-	window.onhashchange = function() { window.location.hash = '/aL43Ah0l0z/32'; }
+	window.onhashchange = function() { window.location.hash = '/ErrorBoss'; }
 	
     useEffect(() => {
         const interval = setInterval(() => {
