@@ -17,7 +17,7 @@ import mac from '../pictures/mac.png';
 import hrizantema from '../pictures/hrizantema.png';
 import podsolnuh from '../pictures/podsolnuh.png';
 import gvozdika from '../pictures/gvozdika.png';
-import oduvanhik from '../pictures/oduvanhik.jpg';
+import oduvanhik from '../pictures/oduvanhik.png';
 import margaritka from '../pictures/margaritka.png';
 import kuvshinka from '../pictures/kuvshinka.png';
 import lutik from '../pictures/lutik.png';
@@ -228,7 +228,7 @@ function getimg(){
     </div>
     <img className="Person" src={Person} alt="Person"/>
   </div>
-  <button onClick={getToBoss} className='buttonToBoss'>Злая плесень</button>
+  <button onClick={getToBoss} className='buttonToBoss'>Шипастая роза</button>
   <div className='buttons__content'>
   
   <button onClick={getInfo} className='buttonInfo'>
