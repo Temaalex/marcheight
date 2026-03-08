@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/marcheight/static/css/main.fd194ddd.css",
-    "main.js": "/marcheight/static/js/main.37d03db1.js",
+    "main.js": "/marcheight/static/js/main.fb16b5bc.js",
     "static/js/885.489c8f9a.chunk.js": "/marcheight/static/js/885.489c8f9a.chunk.js",
     "static/media/winboss.mp3": "/marcheight/static/media/winboss.d24ff652825c14587016.mp3",
     "static/media/Persone.png": "/marcheight/static/media/Persone.b51bfec28e6fbdda84a8.png",
@@ -42,11 +42,11 @@
     "static/media/kick.mp3": "/marcheight/static/media/kick.70d7a9f894a2c413fb03.mp3",
     "index.html": "/marcheight/index.html",
     "main.fd194ddd.css.map": "/marcheight/static/css/main.fd194ddd.css.map",
-    "main.37d03db1.js.map": "/marcheight/static/js/main.37d03db1.js.map",
+    "main.fb16b5bc.js.map": "/marcheight/static/js/main.fb16b5bc.js.map",
     "885.489c8f9a.chunk.js.map": "/marcheight/static/js/885.489c8f9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd194ddd.css",
-    "static/js/main.37d03db1.js"
+    "static/js/main.fb16b5bc.js"
   ]
 }
